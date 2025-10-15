@@ -1,0 +1,19 @@
+{
+  "name": "Inkdrop Source",
+  "identifier": "com.amazi.inkdrop.source",
+  "apps": [
+    {
+      "name": "Inkdrop",
+      "bundleIdentifier": "com.amazi.inkdrop",
+      "developerName": "Amazi",
+      "subtitle": "Explore et laisse des traces",
+      "version": "1.0.0",
+      "versionDate": "2025-10-15",
+      "downloadURL": "https://username.github.io/altstore-source/ipa/Inkdrop.ipa",
+      "localizedDescription": "Inkdrop est une app d’exploration sociale : trouve des « droplets » autour de toi sur une carte, découvre ce que les autres ont laissé, et dépose tes propres messages ou souvenirs.",
+      "iconURL": "https://i.imgur.com/pgxHb5h.png",
+      "tintColor": "0084FF",
+      "size": 0
+    }
+  ]
+}
